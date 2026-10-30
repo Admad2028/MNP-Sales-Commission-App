@@ -1,0 +1,6 @@
+{
+  "name": "MnP Sales Commission & Incentive Dashboard",
+  "description": "Interactive sales commission calculator, eligibility gate tracker, slab visualizer, and Weekly Top Gun award tracker for the MnP sales team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
